@@ -48,7 +48,7 @@ Dự án Roman Plaza sở hữu được giao thông thuận lợi do nằm ngay
 Tổ hợp dự án Roman Plaza được xây dựng dựa trên ý tưởng về một mô hình sống xanh khu đô thị xanh đẳng cấp hiện đại nằm trọn vẹn giữa cảnh quan xanh mát khi trang bị hệ thống tiện ích hiện đại giúp những cư dân tương lai có thể tận hưởng cuộc sống với đầy đủ tiện nghi
 ![Sảnh chờ dự án Roman Plaza](/assets/roman-plaza/06-sanh-cho.jpg)
 
-Cư dân sống trong chung cư Roman Plaza sẽ được trải nghiệm chuỗi tiện ích vượt trội bao gồm: khu thể dục thể thao, chăm sóc sắc đẹp, trung tâm mua sắm, không gian xanh vườn đi bộ, phòng sinh hoạt cộng đồng,...
+Cư dân sống trong chung cư Roman Plaza sẽ được trải nghiệm chuỗi tiện ích vượt trội bao gồm: khu thể dục thể thao, chăm sóc sắc đẹp, trung tâm mua sắm, không gian xanh vườn đi bộ, phòng sinh hoạt cộng đồng...
 ![Phòng khách dự án Roman Plaza](/assets/roman-plaza/07-phong-khach.jpg)
 
 Mong muốn sẽ kiến tạo nên một khu căn hộ đẳng cấp xứng tầm với vị trí đắc địa nơi giao hoà sinh khí của Trời Đất mà thiên nhiên ban tặng, chủ đầu tư Hải Phát đã chú trọng đồng bộ hệ thống hạ tầng hiện đại, trang bị tiện ích những tiện ích sống nổi trội mà cư dân mong muốn
