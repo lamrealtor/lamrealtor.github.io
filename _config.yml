@@ -35,9 +35,9 @@ header_pages:
   - lien-he.md
 
 # Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+# refer to   if you want to customize this
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%Y-%m-%d %H:%M"
 
 disqus:
     shortname: lamrealtor.github.io
