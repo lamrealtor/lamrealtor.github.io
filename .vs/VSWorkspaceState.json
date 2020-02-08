@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\_posts",
+    "\\_sass\\minima"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\_posts\\2020-01-24-vinata-tower.md",
   "PreviewInSolutionExplorer": false
 }
