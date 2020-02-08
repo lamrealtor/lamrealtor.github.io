@@ -4,8 +4,6 @@ title: Liên Hệ
 permalink: /lien-he/
 ---
 
-<div>
 <form>
-    <input>Test</input>
+    <input label="Test" type="Text">Test</input>
 </form>
-</div>

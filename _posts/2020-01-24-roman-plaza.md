@@ -1,7 +1,12 @@
 ---
 layout: post
 title:  "Roman Plaza"
+description: LamRealtor 0908067447 bán dự án căn hộ chung cư liền kề biệt thự Roman Plaza ở Hà Nội Nam Từ Liêm Đại Mỗ
+image: /assets/roman-plaza/01-tong-quan.jpg
+author: LamRealtor
 date:   2020-01-24 16:49:13 +0700
+lang: vi
+
 categories: ban du-an can-ho chung-cu lien-ke biet-thu ha-noi nam-tu-liem dai-mo
 ---
 
