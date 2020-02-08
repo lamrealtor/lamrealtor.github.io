@@ -6,7 +6,8 @@ categories: ban du-an can-ho chung-cu lien-ke biet-thu ha-noi nam-tu-liem dai-mo
 ---
 
 ![Tổng quan dự án Roman Plaza](/assets/roman-plaza/01-tong-quan.jpg)
-# TỔNG QUAN DỰ ÁN ROMAN PLAZA 
+# TỔNG QUAN DỰ ÁN ROMAN PLAZA
+
 Tên dự án: Tổ hợp thương mại dịch vụ và căn hộ cao cấp Hải Phát Plaza
 Tên thương mại: Roman Plaza
 Địa điểm: Mặt đường Tố Hữu, phường Đại Mỗ, quận Nam Từ Liêm, thành phố Hà Nội
@@ -29,27 +30,36 @@ Hình thức sở hữu: Lâu dài
 
 ![Phối cảnh dự án Roman Plaza](/assets/roman-plaza/02-phoi-canh.jpg)
 # VỊ TRÍ VÀ TIỆN ÍCH DỰ ÁN ROMAN PLAZA
+
 Roman Plaza sở hữu vị trí đắc địa ngay trên mặt đường Tố Hữu, khu vực trung tâm tập trung đông dân cư và tốc độ phát triển nhanh nhất quận Hà Đông. Nằm trong khu vực có hạ tầng giao thông đã được đồng bộ cho nên đây hứa hẹn sẽ là điểm dừng chân lý tưởng, mang lại giá trị đầu tư cao trong tương lai
 ![Vị trí dự án Roman Plaza](/assets/roman-plaza/03-vi-tri.jpg)
+
 Dự án Roman Plaza sở hữu được giao thông thuận lợi do nằm ngay trên mặt đường Tố Hữu tuyến đường giao thông huyết mạch kết nối dễ dàng cùng các cung đường huyết mạch của Thủ đô như: Lê Văn Lương, Nguyễn Trãi, Phạm Hùng, đường sắt trên cao Cát Linh Hà Đông...
 ![Kiến truc dự án Roman Plaza](/assets/roman-plaza/04-kien-truc.jpg)
+
 Đặc biệt, dự án Roman Plaza Hải Phát còn nằm trong khu vực hạ tầng đã được đồng bộ gần các khu đô thị, chợ, trường học lớn đã hoàn thiện và đi vào sử dụng như: Làng việt kiều châu Âu, khu đô thị Văn Quán,... nên thừa hưởng được hạ tầng sẵn có nơi đây
 ![Bể bơi dự án Roman Plaza](/assets/roman-plaza/05-be-boi.jpg)
+
 Tổ hợp dự án Roman Plaza được xây dựng dựa trên ý tưởng về một mô hình sống xanh khu đô thị xanh đẳng cấp hiện đại nằm trọn vẹn giữa cảnh quan xanh mát khi trang bị hệ thống tiện ích hiện đại giúp những cư dân tương lai có thể tận hưởng cuộc sống với đầy đủ tiện nghi
 ![Sảnh chờ dự án Roman Plaza](/assets/roman-plaza/06-sanh-cho.jpg)
+
 Cư dân sống trong chung cư Roman Plaza sẽ được trải nghiệm chuỗi tiện ích vượt trội bao gồm: khu thể dục thể thao, chăm sóc sắc đẹp, trung tâm mua sắm, không gian xanh vườn đi bộ, phòng sinh hoạt cộng động,...
 ![Phòng khách dự án Roman Plaza](/assets/roman-plaza/07-phong-khach.jpg)
+
 Mong muốn sẽ kiến tạo nên một khu căn hộ đẳng cấp xứng tầm với vị trí đắc địa nơi giao hoà sinh khí của Trời Đất mà thiên nhiên ban tặng, chủ đầu tư Hải Phát đã chú trọng đồng bộ hệ thống hạ tầng hiện đại, trang bị tiện ích những tiện ích sống nổi trội mà cư dân mong muốn
 
 # MẶT BẰNG DỰ ÁN ROMAN PLAZA 
+
 Tổ hợp khu nhà ở Roman Plaza phát triển dựa trên ý tưởng về thành phố châu Âu hiện đại, xây dựng theo phong cách kiến trúc Tân cổ điển tạo nên sự khác biệt độc đáo so với dự án khác
 ![Vị trí dự án Roman Plaza](/assets/roman-plaza/08-vi-tri.jpg)
+
 Khu căn hộ cao cấp Hải Phát Plaza được bố trí từ tầng 7 24, mỗi sàn có 23 căn hộ với các loại diện tích đa dạng từ 69m2 144m2 ( 2 4 phòng ngủ ) tối ưu hóa được công năng sử dụng mang đến vẻ đẹp sang trọng của sự tiện nghi với nội thất bàn giao cao cấp của các thương hiệu hàng đầu trên thế giới
 ![Mặt bằng điển hình tầng 7-20 dự án Roman Plaza](/assets/roman-plaza/09-mat-bang-dien-hinh-7-20.jpg)
 ![Mặt bằng điển hình tầng 21 dự án Roman Plaza](/assets/roman-plaza/10-mat-bang-dien-hinh-21.jpg)
 ![Mặt bằng điển hình tầng 22 dự án Roman Plaza](/assets/roman-plaza/11-mat-bang-dien-hinh-22.jpg)
 ![Mặt bằng điển hình tầng 23 dự án Roman Plaza](/assets/roman-plaza/12-mat-bang-dien-hinh-23.jpg)
 ![Mặt bằng điển hình tầng 24 dự án Roman Plaza](/assets/roman-plaza/13-mat-bang-dien-hinh-24.jpg)
+
 Điểm nhấn đặc biệt dự án Roman Plaza Hà Đông phong cách thiết kế theo không gian mở đảm bảo cung cấp đủ ánh sáng tự nhiên giúp lưu thông không khí cho toàn căn hộ mang đến không gian sống thoáng đãng tiện nghi
 ![Căn hộ CH1 dự án Roman Plaza](/assets/roman-plaza/14-can-ho-ch1.jpg)
 ![Căn hộ CH2 dự án Roman Plaza](/assets/roman-plaza/15-can-ho-ch2.jpg)
