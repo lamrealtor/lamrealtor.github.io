@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Liên Hệ
 permalink: /lien-he/
 ---
