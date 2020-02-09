@@ -3,7 +3,7 @@ layout: post
 title:  "Sky Central"
 description: LamRealtor 0908067447 bán dự án căn hộ chung cư Sky Central ở Hà Nội Hoàng Mai Định Công
 image: /assets/roman-plaza/01-tong-quan.jpg
-author: LamRealtor
+author: LamRealtor 0908067447
 date:   2020-01-24 16:49:13 +0700
 lang: vi
 categories: ban du-an can-ho chung-cu ha-noi hoang-mai dinh-cong
