@@ -3,6 +3,7 @@ layout: page
 title: Loại Hình
 permalink: /loai-hinh/
 ---
+
 1. [Căn hộ](/loai-hinh/can-ho.md)
 2. [Chung cư](/loai-hinh/chung-cu.md)
 3. [Liền kề](/loai-hinh/lien-ke.md)
