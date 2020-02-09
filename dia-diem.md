@@ -4,7 +4,7 @@ title: Địa Điểm
 permalink: /dia-diem/
 ---
 
-1. Hà Nội
+1. [Hà Nội](/dia-diem/ha-noi.md)
 - Quận Bắc Từ Liêm
 - Quận Nam Từ Liêm
 - Quận Cầu Giấy
