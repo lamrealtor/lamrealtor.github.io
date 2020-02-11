@@ -6,7 +6,9 @@ image: /assets/roman-plaza/01-tong-quan.jpg
 author: LamRealtor 0908067447
 date:   2020-01-24 16:49:13 +0700
 lang: vi
-categories: ban du-an can-ho chung-cu ha-noi hoang-mai dai-kim nghiem-xuan-yem
+excerpt_separator: <!--more-->
+categories: ha-noi hoang-mai dai-kim nghiem-xuan-yem
+tags: ban du-an can-ho chung-cu
 ---
 
 # TỔNG QUAN DỰ ÁN GOLDEN HEART

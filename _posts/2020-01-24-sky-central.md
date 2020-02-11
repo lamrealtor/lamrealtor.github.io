@@ -6,7 +6,9 @@ image: /assets/roman-plaza/01-tong-quan.jpg
 author: LamRealtor 0908067447
 date:   2020-01-24 16:49:13 +0700
 lang: vi
-categories: ban du-an can-ho chung-cu ha-noi hoang-mai dinh-cong
+excerpt_separator: <!--more-->
+categories: ha-noi hoang-mai dinh-cong
+tags: ban du-an can-ho chung-cu
 ---
 
 # TỔNG QUAN DỰ ÁN SKY CENTRAL
