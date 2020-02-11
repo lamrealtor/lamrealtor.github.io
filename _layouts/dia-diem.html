@@ -9,7 +9,7 @@ layout: default
 
   {{ content }}
 
-  {% for category in site.categories | where: "categories", page.dia-diem %}
+  {% for category in site.categories.ha-dong %}
     <h2 class="post-list-heading">{{ page.list_title | default: "Các bài viết" }} - {{ page.dia-diem }}</h2>
     <ul class="post-list">
       {%- for post in category[1] -%}
