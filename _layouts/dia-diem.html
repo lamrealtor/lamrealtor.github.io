@@ -9,8 +9,8 @@ layout: default
 
   {{ content }}
 
-  {% for category in site.categories %}
-    <h2 class="post-list-heading">Địa điểm: </h2>
+  {% for category in site.categories | where:  %}
+    <h2 class="post-list-heading">Địa điểm: {{ page.title }}</h2>
     <ul class="post-list">
       {%- for post in category[1] -%}
       <li>
