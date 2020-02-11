@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Địa Điểm
+lang: vi
 permalink: /dia-diem/
 ---
 

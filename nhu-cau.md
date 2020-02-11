@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Nhu Cầu
+lang: vi
 permalink: /nhu-cau/
 ---
 

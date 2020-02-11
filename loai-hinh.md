@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Loại Hình
+lang: vi
 permalink: /loai-hinh/
 ---
 
