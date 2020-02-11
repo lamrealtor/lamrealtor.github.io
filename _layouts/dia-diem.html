@@ -4,13 +4,13 @@ layout: default
 
 <div class="home">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+    <h1 class="page-heading">Địa điểm: {{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
 
-  {% for category in site.categories | where:  %}
-    <h2 class="post-list-heading">Địa điểm: {{ page.title }}</h2>
+  {% for category in site.categories %}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Các bài viết" }} - {{ page.dia-diem }}</h2>
     <ul class="post-list">
       {%- for post in category[1] -%}
       <li>
