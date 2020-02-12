@@ -23,12 +23,14 @@ email: LamRealtorUS@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   LamRealtor 0908067447 LamRealtorUS@gmail.com thông tin bất động sản
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lamrealtor.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: LamRealtorUS
 instagram_username:  LamRealtorUS
 youtube_username: LamRealtorUS
 
 google_analytics: UA-2658210-12
+
+permalink: /:categories/:title:output_ext
 
 header_pages:
   - nhu-cau.md

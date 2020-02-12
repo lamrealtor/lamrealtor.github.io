@@ -2,7 +2,6 @@
 layout: default
 title: Liên Hệ
 lang: vi
-permalink: /lien-he/
 ---
 
 <form>

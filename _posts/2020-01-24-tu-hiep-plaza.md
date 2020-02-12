@@ -6,6 +6,7 @@ image: /assets/roman-plaza/01-tong-quan.jpg
 author: LamRealtor 0908067447
 date:   2020-01-24 16:49:13 +0700
 lang: vi
+permalink: /ha-noi/thanh-tri/tu-hiep/hong-ha/tu-hiep-plaza.html
 excerpt_separator: <!--more-->
 categories: ha-noi thanh-tri tu-hiep hong-ha
 tags: ban du-an can-ho
