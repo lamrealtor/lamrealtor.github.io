@@ -2,11 +2,10 @@
 layout: post
 title:  "Tứ Hiệp Plaza"
 description: LamRealtor 0908067447 bán dự án căn hộ chung cư Tứ Hiệp Plaza ở Hà Nội Thanh Trì Từ Hiệp Hồng Hà
-image: /assets/roman-plaza/01-tong-quan.jpg
+image: /assets/tu-hiep-plaza/0-.jpg
 author: LamRealtor 0908067447
 date:   2020-01-24 16:49:13 +0700
 lang: vi
-permalink: /ha-noi/thanh-tri/tu-hiep/hong-ha/tu-hiep-plaza.html
 excerpt_separator: <!--more-->
 categories: ha-noi thanh-tri tu-hiep hong-ha
 tags: ban du-an can-ho

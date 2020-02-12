@@ -2,11 +2,10 @@
 layout: post
 title:  "Vinata Tower"
 description: LamRealtor 0908067447 bán dự án căn hộ chung cư Vinata Tower ở Hà Nội Cầu Giấy Trung Hòa Khuất Duy Tiến
-image: /assets/roman-plaza/01-tong-quan.jpg
+image: /assets/vinata-tower/00-.jpg
 author: LamRealtor 0908067447
 date:   2020-01-24 16:49:13 +0700
 lang: vi
-permalink: /ha-noi/cau-giay/trung-hoa/khuat-duy-tien/vinata-tower.html
 excerpt_separator: <!--more-->
 categories: ha-noi cau-giay trung-hoa khuat-duy-tien
 tags: ban du-an can-ho chung-cu

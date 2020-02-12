@@ -2,11 +2,10 @@
 layout: post
 title:  "Thăng Long Capital"
 description: LamRealtor 0908067447 bán dự án căn hộ chung cư Thăng Long Capital ở Hà Nội Hoài Đức Nam An Khánh
-image: /assets/roman-plaza/01-tong-quan.jpg
+image: /assets/thang-long-capital/00-.jpg
 author: LamRealtor 0908067447
 date:   2020-01-24 16:49:13 +0700
 lang: vi
-permalink: /ha-noi/hoai-duc/nam-an-khanh/thang-long-capital.html
 excerpt_separator: <!--more-->
 categories: ha-noi hoai-duc nam-an-khanh
 tags: ban du-an can-ho chung-cu

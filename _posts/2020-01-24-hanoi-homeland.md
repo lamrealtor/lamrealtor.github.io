@@ -2,13 +2,12 @@
 layout: post
 title:  "Hanoi HomeLand"
 description: LamRealtor 0908067447 bán dự án căn hộ chung cư Hanoi Homeland ở Hà Nội Long Biên Thượng Thanh Lý Sơn
-image: /assets/roman-plaza/01-tong-quan.jpg
+image: /assets/hanoi-homeland/00-.jpg
 author: LamRealtor 0908067447
 date:   2020-01-24 16:49:13 +0700
 lang: vi
-permalink: /ha-noi/long-bien/thuong-thanh/ly-son/hanoi-homeland.html
 excerpt_separator: <!--more-->
-categories: ha-noi long-bien thuong-thanh ly-son
+categories: [ha-noi,long-bien,thuong-thanh,ly-son]
 tags: ban du-an can-ho chung-cu 
 ---
 
