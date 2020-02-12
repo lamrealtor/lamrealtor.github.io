@@ -12,6 +12,8 @@ categories: ha-noi hoang-mai dinh-cong
 tags: ban du-an can-ho chung-cu
 ---
 
+Sky Central ở quận Hoàng Mai<!--more-->
+
 # TỔNG QUAN DỰ ÁN SKY CENTRAL
 
 * Tên dự án: Khu phức hợp HUD1-VNF1 176 Phố Định Công

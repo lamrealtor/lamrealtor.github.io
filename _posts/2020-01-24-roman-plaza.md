@@ -12,6 +12,8 @@ categories: ha-noi nam-tu-liem dai-mo
 tags: ban du-an can-ho chung-cu lien-ke biet-thu
 ---
 
+Kiến trúc Ý trong lòng Hà Nội<!--more-->
+
 ![Tổng quan dự án Roman Plaza](/assets/roman-plaza/01-tong-quan.jpg)
 # TỔNG QUAN DỰ ÁN ROMAN PLAZA
 

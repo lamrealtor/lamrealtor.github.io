@@ -12,6 +12,8 @@ categories: ha-noi nam-tu-liem dai-mo
 tags: ban du-an can-ho chung-cu
 ---
 
+Tháp Khởi nghiệp<!--more-->
+
 # TỔNG QUAN DỰ ÁN STARTUP TOWER
 
 * Tên dự án: Startup Tower

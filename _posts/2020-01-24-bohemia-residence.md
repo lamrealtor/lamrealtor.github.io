@@ -12,6 +12,8 @@ categories: ha-noi thanh-xuan thanh-xuan-trung nguyen-huy-tuong
 tags: ban du-an can-ho chung-cu 
 ---
 
+Sống Singapore trong lòng Hà Nội<!--more-->
+
 # TỔNG QUAN DỰ ÁN BOHEMIA RESIDENCE
 
 * Tên dự án: Trung tâm trưng bày sản phẩm, văn phòng cho thuê và căn hộ ở

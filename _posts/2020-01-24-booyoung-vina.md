@@ -12,6 +12,8 @@ categories: ha-noi ha-dong mo-lao
 tags: ban du-an can-ho chung-cu 
 ---
 
+Khu đô thị chuẩn Hàn Quốc<!--more-->
+
 # TỔNG QUAN DỰ ÁN BOOYOUNG VINA
 
 * Tên dự án: Khu chung cư quốc tế Booyoung Vina

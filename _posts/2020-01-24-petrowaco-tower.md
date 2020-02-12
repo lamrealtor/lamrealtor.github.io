@@ -12,6 +12,8 @@ categories: ha-noi dong-da lang-ha
 tags: ban du-an can-ho chung-cu
 ---
 
+Tiện lợi giao thông<!--more-->
+
 # TỔNG QUAN DỰ ÁN PETROWACO TOWER
 
 * Tên dự án: Đầu tư xây dựng lại Khu tập thể số 97 - 99 Láng Hạ

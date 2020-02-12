@@ -12,6 +12,8 @@ categories: ha-noi tay-ho lac-long-quan
 tags: ban du-an can-ho chung-cu
 ---
 
+Dự án bên hồ Tây<!--more-->
+
 # TỔNG QUAN DỰ ÁN ORIENTAL WESTLAKE
 
 * Tên dự án: Chung cư cao cấp Oriental Westlake

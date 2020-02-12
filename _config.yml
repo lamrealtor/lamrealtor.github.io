@@ -31,6 +31,7 @@ youtube_username: LamRealtorUS
 google_analytics: UA-2658210-12
 
 permalink: /:categories/:title:output_ext
+show_excerpts: true
 
 header_pages:
   - nhu-cau.md

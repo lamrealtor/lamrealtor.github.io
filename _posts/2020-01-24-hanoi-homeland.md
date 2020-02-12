@@ -12,6 +12,8 @@ categories: ha-noi long-bien thuong-thanh ly-son
 tags: ban du-an can-ho chung-cu 
 ---
 
+Khu đô thị bên sông Hồng<!--more-->
+
 # TỔNG QUAN DỰ ÁN HÀ NỘI HOMELAND
 
 * Tên dự án: Hà Nội Homeland

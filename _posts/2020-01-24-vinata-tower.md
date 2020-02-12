@@ -12,6 +12,8 @@ categories: ha-noi cau-giay trung-hoa khuat-duy-tien
 tags: ban du-an can-ho chung-cu
 ---
 
+Dự án Vinata Tower<!--more-->
+
 # TỔNG QUAN DỰ ÁN VINATA TOWER
 
 * Tên dự án: Chung cư Vinata Tower

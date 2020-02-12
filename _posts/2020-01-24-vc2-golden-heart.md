@@ -12,6 +12,8 @@ categories: ha-noi hoang-mai dai-kim nghiem-xuan-yem
 tags: ban du-an can-ho chung-cu
 ---
 
+Dự án VC2 Golden Heart<!--more-->
+
 # TỔNG QUAN DỰ ÁN GOLDEN HEART
 
 * Tên dự án: VC2 Golden Heart

@@ -12,6 +12,8 @@ categories: ha-noi thanh-tri tu-hiep hong-ha
 tags: ban du-an can-ho
 ---
 
+Chung cư Tứ Hiệp Plaza<!--more-->
+
 # TỔNG QUAN DỰ ÁN TỨ HIỆP PLAZA
 
 * Tên dự án: Dự án trung tâm thương mại,dịch vụ tổng hợp và nhà ở cao tầng

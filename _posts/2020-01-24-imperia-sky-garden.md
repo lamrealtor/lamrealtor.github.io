@@ -12,6 +12,8 @@ categories: ha-noi hai-ba-trung minh-khai
 tags: ban du-an can-ho chung-cu
 ---
 
+Tiêu chuẩn sống xanh<!--more-->
+
 # TỔNG QUAN DỰ ÁN IMPERIA SKY GARDEN
 
 * Tên dự án: Tổ hợp căn hộ cao cấp Imperia Sky Garden

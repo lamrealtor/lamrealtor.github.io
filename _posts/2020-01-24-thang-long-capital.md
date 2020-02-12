@@ -12,6 +12,8 @@ categories: ha-noi hoai-duc nam-an-khanh
 tags: ban du-an can-ho chung-cu
 ---
 
+Tổ hợp Thăng Long Victory<!--more-->
+
 # TỔNG QUAN DỰ ÁN THĂNG LONG CAPITAL
 
 * Tên dự án: Dự án tổ hợp Chung cư Thăng Long Victory
