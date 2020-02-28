@@ -94,6 +94,7 @@ Mặt bằng thiết kế Anland Lake View bản chuẩn
 | Đợt 5 | 10% | Sau 3 tháng kể từ Đợt 4 |
 | Đợt 6 | 25% + 2% KPBT | Khi thông báo nhận nhà (dự kiến Quý II/2021) |
 | Đợt 7 | 5% | Nhận GCNSH |
+
 Chính Sách Ngân Hàng (áp dụng với VietcomBank, MB, TPBank)
 
 
