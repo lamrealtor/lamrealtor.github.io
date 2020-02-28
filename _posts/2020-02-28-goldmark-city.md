@@ -79,24 +79,24 @@ Ngoài ra, Goldmark City còn nhiều tiện ích khác, phục vụ một cách
 
 ## 1. Mặt bằng tổng thể dự án
  
-Tòa Ruby 01 (Tòa 101) – Block A
+### Tòa Ruby 01 (Tòa 101) – Block A
 ![Tòa Ruby 01 (Tòa 101) – Block A Chung cư Goldmark City](/assets/goldmark-city/09.jpg)
 
-Tòa Ruby 02 (Tòa 102) – Block A
+### Tòa Ruby 02 (Tòa 102) – Block A
 ![Tòa Ruby 02 (Tòa 102) – Block A Chung cư Goldmark City](/assets/goldmark-city/10.jpg)
 
-Tòa Ruby 03 (Tòa 103) – Block A
+### Tòa Ruby 03 (Tòa 103) – Block A
 ![Tòa Ruby 03 (Tòa 103) – Block A Chung cư Goldmark City](/assets/goldmark-city/11.jpg)
 
-Mặt bằng điển hình tòa nhà 103
+### Mặt bằng điển hình tòa nhà 103
 ![Mặt bằng điển hình tòa nhà 103](/assets/goldmark-city/12.jpg)
 
 
 
-Tòa Ruby 04 (Tòa 104) – Block A
+### Tòa Ruby 04 (Tòa 104) – Block A
 ![Tòa Ruby 04 (Tòa 104) – Block A Chung cư Goldmark City](/assets/goldmark-city/13.jpg)
 
-Mặt bằng điển hình tòa nhà 104
+### Mặt bằng điển hình tòa nhà 104
 ![Mặt bằng điển hình tòa nhà 104](/assets/goldmark-city/14.jpg)
 
 
