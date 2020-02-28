@@ -11,7 +11,7 @@ categories: [ha-noi, ha-dong, duong-noi]
 tags: [ban, du-an, can-ho, chung-cu]
 ---
 
-Chung cư Anland LakeView tọa lạc tại vị trí đẹp nhất khu đô thị Dương Nội. Sở hữu 2 không gian sống xanh Hồ Bách Hợp thủy 6 ha, Công viên Thiên Văn Học đầu tiên tại Đông Nam Á rộng hơn 6 ha. Gần Bệnh viện quốc tế Nam Cường; Tòa văn phòng; Biệt thự Dương Nội; Đặc biệt gần đại siêu thị AON MALL,... sẽ giúp cho cư dân sinh sống nơi đây có những trải nghiệm mua sắm và vui chơi những ngày cuối tuần tuyệt vời nhất<!--more-->
+Chung cư Anland LakeView tọa lạc tại vị trí đẹp nhất khu đô thị Dương Nội. Sở hữu 2 không gian sống xanh Hồ Bách Hợp thủy 6 ha, Công viên Thiên Văn Học đầu tiên tại Đông Nam Á rộng hơn 6 ha. Gần Bệnh viện quốc tế Nam Cường; Tòa văn phòng; Biệt thự Dương Nội; Đặc biệt gần đại siêu thị AEON MALL,... sẽ giúp cho cư dân sinh sống nơi đây có những trải nghiệm mua sắm và vui chơi những ngày cuối tuần tuyệt vời nhất<!--more-->
 
 
 
