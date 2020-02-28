@@ -2,7 +2,7 @@
 layout: post
 title:  "Imperia Sky Garden"
 description: LamRealtor 0908067447 bán dự án căn hộ chung cư Imperia Sky Garden ở Hà Nội Hai Bà Trưng Minh Khai
-image: /assets/imperia-sky-garden/00-.jpg
+image: /assets/imperia-sky-garden/00.jpg
 author: LamRealtor 0908067447
 date:   2020-01-24 16:49:13 +0700
 lang: vi

@@ -2,7 +2,7 @@
 layout: post
 title:  "Booyoung Vina"
 description: LamRealtor 0908067447 bán dự án căn hộ chung cư Booyoung Vina ở Hà Nội Hà Đông Mỗ Lao
-image: /assets/booyoung-vina/00-.jpg
+image: /assets/booyoung-vina/00.jpg
 author: LamRealtor 0908067447
 date:   2020-01-24 16:49:13 +0700
 lang: vi

@@ -2,7 +2,7 @@
 layout: post
 title:  "VC2 Golden Heart"
 description: LamRealtor 0908067447 bán dự án căn hộ chung cư Golden Heart ở Hà Nội Hoàng Mai Đại Kim Nghiêm Xuân Yêm
-image: /assets/vc2-golden-heart/00-.jpg
+image: /assets/vc2-golden-heart/00.jpg
 author: LamRealtor 0908067447
 date:   2020-01-24 16:49:13 +0700
 lang: vi

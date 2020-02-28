@@ -2,7 +2,7 @@
 layout: post
 title:  "Petrowaco Tower"
 description: LamRealtor 0908067447 bán dự án căn hộ chung cư Petrowaco Tower ở Hà Nội Đống Đa Láng Hạ
-image: /assets/petrowaco-tower/00-.jpg
+image: /assets/petrowaco-tower/00.jpg
 author: LamRealtor 0908067447
 date:   2020-01-24 16:49:13 +0700
 lang: vi
