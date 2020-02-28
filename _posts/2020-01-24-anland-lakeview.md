@@ -15,7 +15,7 @@ Chung cư Anland LakeView tọa lạc tại vị trí đẹp nhất khu đô th�
 
 
 
-![Tổng quan dự án AnLand LakeView](/assets\anland-lakeview\0-phoi-canh.jpg)
+![Tổng quan dự án AnLand LakeView](/assets/anland-lakeview/0-phoi-canh.jpg)
 # TỔNG QUAN DỰ ÁN ANLAND LAKEVIEW
 
 * Tên dự án: Anland LakeView
@@ -31,13 +31,13 @@ Chung cư Anland LakeView tọa lạc tại vị trí đẹp nhất khu đô th�
 * Thời gian bàn giao: Dự kiến Quý II/2021
 * Thời gian mở bán lần đầu: Tháng 11/2019
 
-![Phối cảnh mặt trước dự án AnLand LakeView](/assets\anland-lakeview\1-phoi-canh-mat-truoc.jpg)
+![Phối cảnh mặt trước dự án AnLand LakeView](/assets/anland-lakeview/1-phoi-canh-mat-truoc.jpg)
 
 
 
 # VỊ TRÍ DỰ ÁN
 
-![Vị trí dự án AnLand LakeView](/assets\anland-lakeview\3-vi-tri.jpg)
+![Vị trí dự án AnLand LakeView](/assets/anland-lakeview/3-vi-tri.jpg)
 
 
 
@@ -62,7 +62,7 @@ Chung cư Anland LakeView tọa lạc tại vị trí đẹp nhất khu đô th�
 
  
 # SƠ ĐỒ MẶT BẰNG THIẾT KẾ CĂN HỘ ANLAND LAKEVIEW
-![Phối cảnh kèm chú giải dự án AnLand LakeView](/assets\anland-lakeview\2-phoi-canh-chu-giai.jpg)
+![Phối cảnh kèm chú giải dự án AnLand LakeView](/assets/anland-lakeview/2-phoi-canh-chu-giai.jpg)
 Chung cư Anland LakeView Dương Nội được thiết kế theo tiêu chuẩn kiến trúc hiện đại. Tận dụng tối đa ánh sáng và gió tự nhiên.
 
 
