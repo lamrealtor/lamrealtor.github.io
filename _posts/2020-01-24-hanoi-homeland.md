@@ -75,11 +75,11 @@ Cùng với đó, Chung cư Hà Nội Homeland nằm ngay gần trung tâm hành
 
 Tổ hợp Dự án Chung cư Hà Nội Homeland tạo dựng một cộng đồng cư dân văn minh, hiện đại, phát triển. Xã hội hiện đại, kèm theo đó, nhịp sống cũng phát triển và nhu cầu sinh sống của con người cũng vì vậy mà tăng cao. Hiểu được tâm tư nguyện vọng cũng như thị hiếu của mọi người trong tương lai, tiện ích Chung cư Hà Nội Homeland không chỉ mang đến cuộc sống sang trọng đẳng cấp mà còn tiện nghi hơn rất nhiều
 
-![Sảnh đón khách và thang máy dự án Hà Nội Homeland](/assets/hanoi-homeland/07.jpg)
+![rung tâm thương mại và bãi đỗ xe dự án Hà Nội Homeland](/assets/hanoi-homeland/07.jpg)
 
 Bể bơi ngoài trời là một trong những điểm hấp dẫn nhất của khu Chung cư Homeland Thượng Thanh. Hồ bơi ngoài trời được thiết kế với tầm nhìn bao quát toàn cảnh, là nơi tận hưởng những phút giây thư giãn tuyệt và là nơi để rèn luyện sức khỏe của mọi người. Hệ thống bể bơi trong nhà được chủ dự án xây dựng theo chuẩn quốc tế, làm ấm bằng hệ thống lưu dẫn, gia nhiệt. Bể bơi bốn mùa đáp ứng được tất cả các nhu cầu mà khách hàng mong muốn
 
-![Trung tâm thương mại và bãi đỗ xe dự án Hà Nội Homeland](/assets/hanoi-homeland/08.jpg)
+![Khu vui chơi ngoài trời và phòng khám, khu thể thao và siêu thị dự án Hà Nội Homeland](/assets/hanoi-homeland/08.jpg)
 
 Với những thiết kế hiện đại, áp dụng các tiêu chuẩn kiểu mẫu cho những căn hộ tại Chung cư Homeland Hà Nội người mua nhà có thể hoàn toàn yên tâm về không gian sống, việc vận dụng các yếu tố phong thuỷ vào trong từng thiết kế với chủ đạo các căn hộ đều lấy cảm hừng “Chạm tay vào Nắng và Gió” kết hợp tinh tế với thiên nhiên, mang thiên nhiên vào từng căn hộ nhưng vẫn giữ được sự sang trọng và đẳng cấp
 
@@ -87,9 +87,8 @@ Với những thiết kế hiện đại, áp dụng các tiêu chuẩn kiểu m
 
 Với mong muốn đưa tới một luồng gió mới vào thị trường bất động sản phía Đông, Hà Nội HomeLand được thiết kế theo phong cách kiến trúc tân cổ điển, đơn giản mà sang trọng, nhẹ nhàng mà cuốn hút, lấy ý  tưởng chủ đạo là mang tới không gian sống xanh hiện đại, mang tới nét yên bình giữa chốn đô thị ồn ào
 
-![Khu vui chơi ngoài trời và phòng khám, khu thể thao và siêu thị dự án Hà Nội Homeland](/assets/hanoi-homeland/09.jpg)
+![Cơ cấu căn hộ điển hình tầng 2-18 dự án Hà Nội Homeland](/assets/hanoi-homeland/09.jpg)
 ![Cơ cấu căn hộ điển hình tầng 2-18 dự án Hà Nội Homeland](/assets/hanoi-homeland/10.jpg)
-![Cơ cấu căn hộ điển hình tầng 2-18 dự án Hà Nội Homeland](/assets/hanoi-homeland/11.jpg)
 
 Dự án Hanoi Homeland Long Biên có tất cả 4 tòa CT1A – CT1B – CT2A – CT2B, được ghép thành 2 khối hình chữ H, giúp tăng diện tích tiếp xúc ánh sáng tối đa cho mỗi căn hộ. Mỗi tòa tháp được bố trí như sau:
 
@@ -98,8 +97,7 @@ Dự án Hanoi Homeland Long Biên có tất cả 4 tòa CT1A – CT1B – CT2A 
 * Căn hộ 2 thiết kế phòng ngủ: Diện tích 58.13 – 69.21 m2
 * Căn hộ 3 thiết kế phòng ngủ: Diện tích 78.28 – 94.52 m2
 
-![Cơ cấu căn hộ điển hình tầng 2-18 dự án Hà Nội Homeland](/assets/hanoi-homeland/12.jpg)
-![Căn hộ CH-1A dự án Hà Nội Homeland](/assets/hanoi-homeland/13.jpg)
+![Căn hộ CH-1A dự án Hà Nội Homeland](/assets/hanoi-homeland/12.jpg)
 ![Căn hộ CH-1B dự án Hà Nội Homeland](/assets/hanoi-homeland/13.jpg)
 ![Căn hộ CH-2A dự án Hà Nội Homeland](/assets/hanoi-homeland/14.jpg)
 ![Căn hộ CH-2B dự án Hà Nội Homeland](/assets/hanoi-homeland/15.jpg)
