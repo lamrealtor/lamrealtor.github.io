@@ -54,10 +54,10 @@ Chung cư Anland LakeView tọa lạc tại vị trí đẹp nhất khu đô th�
 
 # LÝ DO NÊN MUA ANLAND LAKE VIEW
 
-*Đô thị đáng sống*: Khu đô thị Dương Nội là đô thị mở, đạt chuẩn xanh EDGE và đang phát triển thành đô thị Zero Energy đầu tiên tại Việt Nam
-*Vị trí trung tâm*: Tọa lạc cạnh trung tâm thương mại AEON Mall Hà Đông và nằm trên ngã 4 Lê Quang Đạo – Ngô Thì Nhậm. Anland Lake View sở hữu vị trí đặc biệt chiến lược và đắc địa
-*Sản phẩm cao cấp*: Chung cư Anland LakeView Dương Nội là dự án căn hộ cao cấp nhất tại khu đô thị Dương Nội. Được đầu tư bài bản bởi tập đoàn Nam Cường, đơn vị thi công là RICONS tiếng tăm. Đã và đang triển khai nhiều dự án cao cấp trên toàn quốc
-*Chủ đầu tư uy tín*: Tập đoàn Nam Cường là đơn vị có lịch sử phát triển lâu đời với thâm niên hơn 35 năm. Các sản phẩm của Nam Cường đa dạng như: Bất động sản, Khách sạn, Du lịch, giao thông,…
+* *Đô thị đáng sống*: Khu đô thị Dương Nội là đô thị mở, đạt chuẩn xanh EDGE và đang phát triển thành đô thị Zero Energy đầu tiên tại Việt Nam
+* *Vị trí trung tâm*: Tọa lạc cạnh trung tâm thương mại AEON Mall Hà Đông và nằm trên ngã 4 Lê Quang Đạo – Ngô Thì Nhậm. Anland Lake View sở hữu vị trí đặc biệt chiến lược và đắc địa
+* *Sản phẩm cao cấp*: Chung cư Anland LakeView Dương Nội là dự án căn hộ cao cấp nhất tại khu đô thị Dương Nội. Được đầu tư bài bản bởi tập đoàn Nam Cường, đơn vị thi công là RICONS tiếng tăm. Đã và đang triển khai nhiều dự án cao cấp trên toàn quốc
+* *Chủ đầu tư uy tín*: Tập đoàn Nam Cường là đơn vị có lịch sử phát triển lâu đời với thâm niên hơn 35 năm. Các sản phẩm của Nam Cường đa dạng như: Bất động sản, Khách sạn, Du lịch, giao thông,…
 
 
  
