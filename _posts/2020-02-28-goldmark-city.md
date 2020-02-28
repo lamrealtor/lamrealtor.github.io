@@ -101,23 +101,23 @@ Ngoài ra, Goldmark City còn nhiều tiện ích khác, phục vụ một cách
 
 
 
-Tòa Sapphire 1 - Block B
+### Tòa Sapphire 1 - Block B
 ![Tòa Sapphire 1 - Block B Chung cư Goldmark City](/assets/goldmark-city/15.jpg)
 
-Tòa Sapphire 2 Block B
+### Tòa Sapphire 2 Block B
 ![Tòa Sapphire 2 Block B Chung cư Goldmark City](/assets/goldmark-city/16.jpg)
 
-Tòa Sapphire 3 Block B
+### Tòa Sapphire 3 Block B
 ![Tòa Sapphire 3 Block B Chung cư Goldmark City](/assets/goldmark-city/17.jpg)
 
-Tòa Sapphire 4 Block B
+### Tòa Sapphire 4 Block B
 ![Tòa Sapphire 4 Block B Chung cư Goldmark City](/assets/goldmark-city/18.jpg)
 
 
 
 ## 2. Mặt bằng chi tiết căn hộ
  
-Tòa Ruby 01 (Tòa 101) – Block A
+### Tòa Ruby 01 (Tòa 101) – Block A
 ![Căn 01 Tòa Ruby 01 (Tòa 101) – Block A Chung cư Goldmark City](/assets/goldmark-city/19.jpg)
 ![Căn 02 Tòa Ruby 02 (Tòa 101) – Block A Chung cư Goldmark City](/assets/goldmark-city/20.jpg)
 ![Căn 03 Tòa Ruby 03 (Tòa 101) – Block A Chung cư Goldmark City](/assets/goldmark-city/21.jpg)
@@ -127,7 +127,7 @@ Tòa Ruby 01 (Tòa 101) – Block A
 ![Căn 03 Tòa Ruby 08 (Tòa 101) – Block A Chung cư Goldmark City](/assets/goldmark-city/25.jpg)
 
 
-Tòa Ruby 02 (Tòa 102) – Block A
+### Tòa Ruby 02 (Tòa 102) – Block A
 ![Căn 01 Tòa Ruby 02 (Tòa 102) – Block A Chung cư Goldmark City](/assets/goldmark-city/26.jpg)
 ![Căn 02 Tòa Ruby 02 (Tòa 102) – Block A Chung cư Goldmark City](/assets/goldmark-city/27.jpg)
 ![Căn 03 Tòa Ruby 02 (Tòa 102) – Block A Chung cư Goldmark City](/assets/goldmark-city/28.jpg)
@@ -136,7 +136,7 @@ Tòa Ruby 02 (Tòa 102) – Block A
 
 
 
-Tòa Ruby 03 (Tòa 103) – Block A
+### Tòa Ruby 03 (Tòa 103) – Block A
 ![Căn A1 Tòa Ruby 03 (Tòa 103) – Block A Chung cư Goldmark City](/assets/goldmark-city/31.jpg)
 ![Căn A2 Tòa Ruby 03 (Tòa 103) – Block A Chung cư Goldmark City](/assets/goldmark-city/32.jpg)
 ![Căn A3 Tòa Ruby 03 (Tòa 103) – Block A Chung cư Goldmark City](/assets/goldmark-city/33.jpg)
@@ -148,14 +148,14 @@ Tòa Ruby 03 (Tòa 103) – Block A
 ![Căn F Tòa Ruby 03 (Tòa 103) – Block A Chung cư Goldmark City](/assets/goldmark-city/39.jpg)
 
 
-Tòa Ruby 04 (Tòa 104) – Block A
+### Tòa Ruby 04 (Tòa 104) – Block A
 ![Căn hộ A Tòa Ruby 04 (Tòa 104) – Block A Chung cư Goldmark City](/assets/goldmark-city/40.jpg)
 ![Căn hộ B Tòa Ruby 04 (Tòa 104) – Block A Chung cư Goldmark City](/assets/goldmark-city/41.jpg)
 ![Căn hộ C Tòa Ruby 04 (Tòa 104) – Block A Chung cư Goldmark City](/assets/goldmark-city/42.jpg)
 ![Căn hộ D Tòa Ruby 04 (Tòa 104) – Block A Chung cư Goldmark City](/assets/goldmark-city/43.jpg)
 
 
-Tòa Sapphire 1 - Block B
+### Tòa Sapphire 1 - Block B
 ![Căn hộ 01 Tòa Sapphire 1 - Block B Chung cư Goldmark City](/assets/goldmark-city/44.jpg)
 ![Căn hộ 02 Tòa Sapphire 1 - Block B Chung cư Goldmark City](/assets/goldmark-city/45.jpg)
 ![Căn hộ 03 Tòa Sapphire 1 - Block B Chung cư Goldmark City](/assets/goldmark-city/46.jpg)
@@ -166,11 +166,18 @@ Tòa Sapphire 1 - Block B
 ![Căn hộ 08 Tòa Sapphire 1 - Block B Chung cư Goldmark City](/assets/goldmark-city/51.jpg)
 
 
-Tòa Sapphire 2 - Block B
-![Tòa Sapphire 2 - Block B Chung cư Goldmark City](/assets/goldmark-city/22.jpg)
+### Tòa Sapphire 2 - Block B
+![Căn hộ 01-02-03-04-09 Tòa Sapphire 2 - Block B Chung cư Goldmark City](/assets/goldmark-city/52.jpg)
+![Căn hộ 05-10-06-11-07-08 Tòa Sapphire 2 - Block B Chung cư Goldmark City](/assets/goldmark-city/53.jpg)
 
-Tòa Sapphire 3 - Block B
-![Tòa Sapphire 3 - Block B Chung cư Goldmark City](/assets/goldmark-city/23.jpg)
 
-Tòa Sapphire 4 - Block B
-![Tòa Sapphire 4 - Block B Chung cư Goldmark City](/assets/goldmark-city/24.jpg)
+### Tòa Sapphire 3 - Block B
+![Căn hộ 01-02-03-04 Tòa Sapphire 3 - Block B Chung cư Goldmark City](/assets/goldmark-city/54.jpg)
+![Căn hộ 05-13-06-14-07-15-0-16 Tòa Sapphire 3 - Block B Chung cư Goldmark City](/assets/goldmark-city/55.jpg)
+![Căn hộ 09-17-10-11-12 Tòa Sapphire 3 - Block B Chung cư Goldmark City](/assets/goldmark-city/56.jpg)
+
+
+### Tòa Sapphire 4 - Block B
+![Căn hộ 01-02-03-04 Tòa Sapphire 4 - Block B Chung cư Goldmark City](/assets/goldmark-city/57.jpg)
+![Căn hộ 08-16-07-15-06-14-05-13 Tòa Sapphire 4 - Block B Chung cư Goldmark City](/assets/goldmark-city/58.jpg)
+![Căn hộ 09-17-10-11-12 Tòa Sapphire 4 - Block B Chung cư Goldmark City](/assets/goldmark-city/59.jpg)
