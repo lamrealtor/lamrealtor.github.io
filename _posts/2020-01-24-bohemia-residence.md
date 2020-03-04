@@ -14,6 +14,7 @@ tags: ban du-an can-ho chung-cu
 Sống Singapore trong lòng Hà Nội<!--more-->
 
 ![Tổng quan dự án Bohemia Residence](/assets/bohemia-residence/00.jpg)
+
 # TỔNG QUAN DỰ ÁN BOHEMIA RESIDENCE
 
 * Tên dự án: Trung tâm trưng bày sản phẩm, văn phòng cho thuê và căn hộ ở
@@ -35,6 +36,7 @@ Sống Singapore trong lòng Hà Nội<!--more-->
 
 
 ![Vị trí dự án Bohemia Residence](/assets/bohemia-residence/01.jpg)
+
 # VỊ TRÍ & TIỆN ÍCH DỰ ÁN BOHEMIA RESIDENCE
 
 BOHEMIA RESIDENCE nằm tại số 2 Lê Văn Thiêm ngay ngã ba giao cắt với đường Nguyễn Huy Tưởng. Dự án với thiết kế hiện đại và được phát triển bởi các đơn vị quản lý nước ngoài với kinh nghiệm lâu năm trên thị trường
@@ -68,7 +70,9 @@ Tầng 5 – 33 là khu căn hộ cao cấp, được thiết kế đa dạng v�
 Căn hộ dự án được thiết kế 2 ban công (1 ban công view và 1 ban công phơi đồ), ban công mỗi căn được thiết kế nhằm tối ưu hóa công năng sử dụng cho chủ nhà, tất cả các phòng đều có hai mặt thoáng và đón gió tự nhiên. Phòng ngủ và phòng khách được thiết kế theo lối không gian hiện đại ra sự thông thoáng và rộng rãi
 
 ![Căn hộ loại A dự án Bohemia Residence](/assets/bohemia-residence/08.jpg)
+
 ![Căn hộ loại B dự án Bohemia Residence](/assets/bohemia-residence/09.jpg)
+
 ![Căn hộ loại D dự án Bohemia Residence](/assets/bohemia-residence/10.jpg)
 
-Với những thiết kế hiện đại, áp dụng các tiêu chuẩn kiểu mẫu cho những căn hộ tại Chung cư Thủy tinh Bohemia Hà Nội người mua nhà có thể hoàn toàn yên tâm về không gian sống, việc vận dụng các yếu tố phong thuỷ vào trong từng thiết kế với chủ đạo các căn hộ đều lấy cảm hừng “Chạm tay vào Nắng và Gió” kết hợp tinh tế với thiên nhiên, mang thiên nhiên vào từng căn hộ nhưng vẫn giữ được sự sang trọng và đẳng cấp.
+Với những thiết kế hiện đại, áp dụng các tiêu chuẩn kiểu mẫu cho những căn hộ tại Chung cư Thủy tinh Bohemia Hà Nội người mua nhà có thể hoàn toàn yên tâm về không gian sống, việc vận dụng các yếu tố phong thuỷ vào trong từng thiết kế với chủ đạo các căn hộ đều lấy cảm hừng “Chạm tay vào Nắng và Gió” kết hợp tinh tế với thiên nhiên, mang thiên nhiên vào từng căn hộ nhưng vẫn giữ được sự sang trọng và đẳng cấp

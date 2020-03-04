@@ -15,6 +15,7 @@ Khu đô thị chuẩn Hàn Quốc<!--more-->
 
 
 ![Tổng quan dự án Booyoung Vina](/assets/booyoung-vina/00.jpg)
+
 # TỔNG QUAN DỰ ÁN BOOYOUNG VINA
 
 * Tên dự án: Khu chung cư quốc tế Booyoung Vina
@@ -33,6 +34,7 @@ Khu đô thị chuẩn Hàn Quốc<!--more-->
 
 
 ![Vị trí Tiện ích dự án Booyoung Vina](/assets/booyoung-vina/01.jpg)
+
 # VỊ TRÍ & TIỆN ÍCH DỰ ÁN BOOYOUNG VINA
 
 Booyoung Vina nằm trong khu đô thị Mỗ Lao, Hà Đông. Đây là một trong những dự án “hái ra vàng” khi tọa lạc tại một trong những địa điểm đẹp nhất của quận Hà Đông – mặt tiền đường Nguyễn Trãi

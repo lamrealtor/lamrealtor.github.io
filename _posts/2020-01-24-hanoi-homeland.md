@@ -14,6 +14,7 @@ tags: ban du-an can-ho chung-cu
 Khu đô thị bên sông Hồng<!--more-->
 
 ![Tổng quan dự án Hà Nội Homeland](/assets/hanoi-homeland/00.jpg)
+
 # TỔNG QUAN DỰ ÁN HÀ NỘI HOMELAND
 
 * Tên dự án: Hà Nội Homeland
