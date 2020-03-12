@@ -4,7 +4,7 @@ title:  "VC2 Golden Heart"
 description: LamRealtor 0908067447 bán dự án căn hộ chung cư Golden Heart ở Hà Nội Hoàng Mai Đại Kim Nghiêm Xuân Yêm
 image: /assets/vc2-golden-heart/00.jpg
 author: LamRealtor 0908067447
-date:   2020-01-24 16:49:13 +0700
+date:   2020-02-09 16:49:13 +0700
 lang: vi
 excerpt_separator: <!--more-->
 categories: ha-noi hoang-mai dai-kim nghiem-xuan-yem
@@ -12,6 +12,8 @@ tags: ban du-an can-ho chung-cu
 ---
 
 Dự án VC2 Golden Heart<!--more-->
+
+![Tổng quan dự án Golden Heart](/assets/vc2-golden-heart/00.jpg)
 
 # TỔNG QUAN DỰ ÁN GOLDEN HEART
 
@@ -36,11 +38,17 @@ Dự án VC2 Golden Heart<!--more-->
 * Số lượng căn hộ: 604 căn
 * Hình thức sở hữu: Sở hữu lâu dài
 
+![Phối cảnh cổng chào dự án Golden Heart](/assets/vc2-golden-heart/01.jpg)
+
 # VỊ TRÍ & TIỆN ÍCH DỰ ÁN GOLDEN HEART
 
 Khu đô thị Kim Văn Kim Lũ Golden Silk VC2 tọa lạc ở vị trí đắc địa giáp cửa ngõ phía Tây Nam thành phố Hà Nội, ngay trên trục đường vành đai 3 tại điểm tiếp giáp với tuyến đường cao tốc nối đường vành đai 3 với các tuyến đường Quốc lộ 5 và Quốc lộ 1. Tạo điều kiện thuận lợi cho cư dân Kim Văn Kim Lũ dễ dàng Kết nối tới mọi địa điểm văn hóa và hành chính của Thành Phố Hà Nội
 
+![Vị trí dự án Golden Heart](/assets/vc2-golden-heart/02.jpg)
+
 Khối chung cư Kim Văn Kim Lũ và khu đô thị Kim Văn Kim Lũ nằm trong khu vực có có cơ sở hạ tầng tương đối hoàn thiện, là trung tâm của quần thể các khu đô thị đã đi vào sử dụng như: Đại Kim, Định Công và Linh Đàm.. và ngay sát khu đô thị mới The Manor Central Park của tập đoàn Bitexco sẽ được triển khai trong năm 2015. Khu đô thị Kim Văn Kim Lũ là cầu nối các khu đô thị mới Phía Tây Và Phía Nam với khu vực nội thành Hà Nội
+
+![Liên kết vùng dự án Golden Heart](/assets/vc2-golden-heart/03.jpg)
 
 Tòa B chung cư Kim Văn Kim Lũ nằm ở ngay lối vào dự án, thuận tiện giao thông đi lại với tầm view cực thoáng
 
@@ -49,17 +57,29 @@ Tòa B chung cư Kim Văn Kim Lũ nằm ở ngay lối vào dự án, thuận ti
 * Cách Trung tâm Hội nghị Quốc Gia 6km (mất 5 phút đi xe)
 * Các Big C Trần Duy Hưng 4km (5 Phút đi xe)
 
+![Phối cảnh khuôn viên dự án Golden Heart](/assets/vc2-golden-heart/04.jpg)
+
 Dự án VC2 Golden Heart được thừa hưởng tiện ích có sẵn xung quanh như: siêu thị Big C, siêu thị Cop.mark, …trường học cấp 1,2,3 và các trường đại học lớn của Hà Nội như Khoa học Tự nhiên, Nhân Văn, An Ninh, Kiến Trúc… các công viên khu vui chơi giải trí tại khu đô thị mới Linh Đàm, Khu đô thị Văn Quán, Khu đô thị Làng Việt Kiều Châu Âu… và nằm trên trục đường chính vành đai 3 rất thuận tiện giao thông nên có thể nói dự án chung cư Kim Văn Kim Lũ Tòa B nằm ngay trong “nội thành” Hà Nội không có gì là quá đáng!
+
+![Phối cảnh sảnh dự án Golden Heart](/assets/vc2-golden-heart/05.jpg)
 
 Không những thế Dự án nhà ở Vinaconex 2 Kim Văn Kim Lũ kết hợp bán thương mại còn  nằm trong tổng thể dự án Goldensilk của xí nghiệp Lai Châu 1 ( của Đại Gia Lê Thanh Thản) đã đầy đủ tiện ích như một thành phố thủ nhỏ với khu công viên, dịch vụ vui chơi, giải trí, tiện ích như  siêu thị , trường mầm non, cấp 1 , câp 2. Đăc biệt là trụ sở hành chính Quận Hoàng Mai sẽ đặt đây khi dự án hoàn thành
 
+![Bể bơi dự án Golden Heart](/assets/vc2-golden-heart/06.jpg)
+
 Chung Cư Kim Văn Kim Lũ Tòa B là dự án nhà ở thương mại rẻ nhất với chất lượng tốt nhất tại Hà Nội. Dự án chung cư tọa lạc tại vị trí đẹp, nằm trong trung tâm thành phố, hệ thống cơ sở hạ tầng hiện đại và đồng bộ, kết nối hạ tầng với nhiều tiện ích có sẵn phục vụ cho nhu cầu sống thiết yếu như vui chơi giải trí, sinh hoạt cộng đồng thuận lợi cho cư dân ở đây như: trường học các cấp, khu bể bơi, khuân viên sân chơi trẻ em, khu công viên cây xanh, các khu trung tâm mua sắm, các bãi đỗ xe công cộng, dịch vụ khác…
 
+![An ninh dự án Golden Heart](/assets/vc2-golden-heart/07.jpg)
+
 Chung cư VC2 Golden Heart là điểm nhấn trong khu đô thị Kim Văn Kim Lũ, được thiết kế nổi bật theo hình tam giác có 3 góc cạnh bo tròn, tăng tối đa các diện tích tiếp xúc với bên ngoài, nhằm tối ưu hóa trong việc bố trí các không gian đảm bảo các căn hộ của cư dân nơi đây luôn ngập tràn ánh sáng cũng như đón gió tự nhiên
+
+![Phòng khách điển hình dự án Golden Heart](/assets/vc2-golden-heart/08.jpg)
 
 Mỗi sàn căn hộ chung cư VC2 Golden Heart có 16 căn diện tích các căn từ 43.1m2 đến 98.4m2
 
 Tòa nhà được bố trí 5 thang máy tốc độ cao, 1 thang chở hàng và 2 cầu thang bộ, tất cả được bố trí khoa học, tại khu vực trung tâm tòa nhà
+
+![Phòng ngủ điển hình dự án Golden Heart](/assets/vc2-golden-heart/09.jpg)
 
 Căn hộ Golden Heart được bố trí một cách khoa học và thông minh giúp tận dụng tối đa không gian, phù hợp với nhu cầu sử dụng đa dạng của các hộ gia đình. Đặc biệt, tại tầng 42 và 43, chung cư Golden Heart có thiết kế căn hộ penthouse thông tầng với 12 căn hộ, diện tích từ 173m2 đến 209,5m2, mỗi căn hộ đều có thể bao quát toàn cảnh Thủ đô Hà Nội.
 
@@ -67,21 +87,40 @@ Căn hộ Golden Heart được bố trí một cách khoa học và thông minh
 
 ## 1. Mặt bằng tổng thể Chung cư VC2 Golden Heart
 
+![Mặt bằng tổng thể dự án Golden Heart](/assets/vc2-golden-heart/10.jpg)
+
+![Mặt bằng tầng Penhouse dự án Golden Heart](/assets/vc2-golden-heart/11.jpg)
+
 ## 2. Mặt bằng chi tiết căn hộ Chung cư VC2 Golden Heart
 
-Mặt bằng căn hộ CH-01 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ
-Mặt bằng căn hộ CH-02 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ
-Mặt bằng căn hộ CH-03 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ
-Mặt bằng căn hộ CH-05 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ
-Mặt bằng căn hộ CH-05 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ
-Mặt bằng căn hộ CH-06 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ
-Mặt bằng căn hộ CH-07 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ
-Mặt bằng căn hộ CH-08 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ
-Mặt bằng căn hộ CH-09 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ
-Mặt bằng căn hộ CH-10 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ
-Mặt bằng căn hộ CH-1 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ
-Mặt bằng căn hộ CH-12 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ
-Mặt bằng căn hộ CH-13 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ
-Mặt bằng căn hộ CH-14 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ
-Mặt bằng căn hộ CH-15 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ
-Mặt bằng căn hộ CH-16 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ
+![Mặt bằng căn hộ CH-01 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ](/assets/vc2-golden-heart/12.jpg)
+
+![Mặt bằng căn hộ CH-02 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ](/assets/vc2-golden-heart/13.jpg)
+
+![Mặt bằng căn hộ CH-03 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ](/assets/vc2-golden-heart/14.jpg)
+
+![Mặt bằng căn hộ CH-05 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ](/assets/vc2-golden-heart/15.jpg)
+
+![Mặt bằng căn hộ CH-05 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ](/assets/vc2-golden-heart/16.jpg)
+
+![Mặt bằng căn hộ CH-06 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ](/assets/vc2-golden-heart/17.jpg)
+
+![Mặt bằng căn hộ CH-07 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ](/assets/vc2-golden-heart/18.jpg)
+
+![Mặt bằng căn hộ CH-08 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ](/assets/vc2-golden-heart/19.jpg)
+
+![Mặt bằng căn hộ CH-09 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ](/assets/vc2-golden-heart/20.jpg)
+
+![Mặt bằng căn hộ CH-10 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ](/assets/vc2-golden-heart/21.jpg)
+
+![Mặt bằng căn hộ CH-1 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ](/assets/vc2-golden-heart/22.jpg)
+
+![Mặt bằng căn hộ CH-12 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ](/assets/vc2-golden-heart/23.jpg)
+
+![Mặt bằng căn hộ CH-13 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ](/assets/vc2-golden-heart/24.jpg)
+
+![Mặt bằng căn hộ CH-14 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ](/assets/vc2-golden-heart/25.jpg)
+
+![Mặt bằng căn hộ CH-15 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ](/assets/vc2-golden-heart/26.jpg)
+
+![Mặt bằng căn hộ CH-16 Chung cư VC2 Golden Heart - Tòa B Khu đô thị Kim Văn Kim Lũ](/assets/vc2-golden-heart/27.jpg)

@@ -4,7 +4,7 @@ title:  "Thăng Long Capital"
 description: LamRealtor 0908067447 bán dự án căn hộ chung cư Thăng Long Capital ở Hà Nội Hoài Đức Nam An Khánh
 image: /assets/thang-long-capital/00.jpg
 author: LamRealtor 0908067447
-date:   2020-01-24 16:49:13 +0700
+date:   2020-02-06 16:49:13 +0700
 lang: vi
 excerpt_separator: <!--more-->
 categories: ha-noi hoai-duc nam-an-khanh

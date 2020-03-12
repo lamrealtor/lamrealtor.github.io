@@ -4,7 +4,7 @@ title:  "Startup Tower"
 description: LamRealtor 0908067447 bán dự án căn hộ chung cư Startup Tower ở Hà Nội Nam Từ Liêm Đại Mỗ
 image: /assets/startup-tower/00.jpg
 author: LamRealtor 0908067447
-date:   2020-01-24 16:49:13 +0700
+date:   2020-02-05 16:49:13 +0700
 lang: vi
 excerpt_separator: <!--more-->
 categories: ha-noi nam-tu-liem dai-mo

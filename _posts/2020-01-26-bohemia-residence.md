@@ -4,7 +4,7 @@ title:  "Bohemia Residence"
 description: LamRealtor 0908067447 bán dự án căn hộ chung cư Behemia Residence Hà Nội Thanh Xuân Thanh Xuân Trung Nguyễn Huy Tưởng
 image: /assets/bohemia-residence/00.jpg
 author: LamRealtor 0908067447
-date:   2020-01-24 16:49:13 +0700
+date:   2020-01-26 16:49:13 +0700
 lang: vi
 excerpt_separator: <!--more-->
 categories: ha-noi thanh-xuan thanh-xuan-trung nguyen-huy-tuong

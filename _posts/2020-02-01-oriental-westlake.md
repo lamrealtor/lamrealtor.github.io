@@ -4,7 +4,7 @@ title:  "Oriental Westlake"
 description: LamRealtor 0908067447 bán dự án căn hộ chung cư Oriental WestLake ở Hà Nội Tây Hồ Lạc Long Quân
 image: /assets/oriental-westlake/00.jpg
 author: LamRealtor 0908067447
-date:   2020-01-24 16:49:13 +0700
+date:   2020-02-01 16:49:13 +0700
 lang: vi
 excerpt_separator: <!--more-->
 categories: ha-noi tay-ho lac-long-quan
