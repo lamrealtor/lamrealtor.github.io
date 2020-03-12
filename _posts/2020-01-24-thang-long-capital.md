@@ -13,6 +13,8 @@ tags: ban du-an can-ho chung-cu
 
 Tổ hợp Thăng Long Victory<!--more-->
 
+![Tổng quan dự án Thăng Long Victory](/assets/thang-long-capital/00.jpg)
+
 # TỔNG QUAN DỰ ÁN THĂNG LONG CAPITAL
 
 * Tên dự án: Dự án tổ hợp Chung cư Thăng Long Victory
@@ -29,9 +31,13 @@ Tổ hợp Thăng Long Victory<!--more-->
 * Tổng vốn đầu tư: 905 Tỷ đồng
 *  Hình thức sở hữu: Sổ hồng vĩnh viễn
 
+![Phối cảnh dự án Thăng Long Victory](/assets/thang-long-capital/01.jpg)
+
 # VỊ TRÍ VÀ TIỆN ÍCH DỰ ÁN THĂNG LONG CAPITAL
 
 Thăng Long Capital tọa lạc tại lô đất HH1, khu đô thị mới Nam An Khánh, huyện Hoài Đức, thành phố Hà Nội, nằm tại ngã tư góc giao cắt giữa cầu vượt Lại Yên – Nam An Khánh và Đại lộ Thăng Long nối liền với khu đô thị Nam An Khánh và Bắc An Khánh
+
+![Vị trí dự án Thăng Long Victory](/assets/thang-long-capital/02.jpg)
 
 Phía Bắc: Giáp giải cây xanh cách ly, đường nội bộ và Đại Lộ Thăng Long với 4 làn đường lớn, hướng view khu đô thị Bắc An Khánh (Splendora)
 
@@ -41,9 +47,15 @@ Phía Tây: Giáp công viên cây xanh và bể bơi ngoài trời, hướng vi
 
 Phía Đông: Giáp đường 21m vào dự án, hướng về trung tâm thành phố Hà Nội
 
+![Liên kết vùng dự án Thăng Long Victory](/assets/thang-long-capital/03.jpg)
+
 Thăng Long Capital hướng đến tính tự thân bền vững, cư dân có thể tìm thấy tất cả những gì cần thiết cho cuộc sống ngay tại khu đô thị, cụ thể các tiện ích và phân khu chức năng được bố trí hợp lý gồm: Khu trung tâm thương mại,Trường học, Nhà trẻ,công trình tiện ích khu ở, Trụ sở hành chính, Câu lạc bộ công đồng trung tâm, Tháp hỗn hợp, văn phòng, Tháp đôi văn phòng, Khu căn hộ, Trung tâm y tế, Khu cây xanh, Bến thuyền, Hồ nước điều hòa, Quảng trường
 
+![Tiện ích trước thềm nhà dự án Thăng Long Victory](/assets/thang-long-capital/04.jpg)
+
 Chung cư T3 Phúc Hà tiếp giáp với dự án là khu đô thị Spendoza cao cấp, Vinhomes Thăng Long , chính vì vậy khách hàng sinh sống tại đây có thể thừa hưởng và đồng bộ các tiện ích trong khu vực
+
+![Sống khỏe cho cuộc sống tràn năng lượng dự án Thăng Long Victory](/assets/thang-long-capital/05.jpg)
 
 Cách dự án Thăng Long Capital không xa là khu vui chơi giải trí nổi tiếng Thiên Đường Bảo Sơn, đây là nơi lý tưởng để cả gia đình bạn tận hưởng niềm vui ngày cuối tuần
 
@@ -51,6 +63,16 @@ Cách dự án Thăng Long Capital không xa là khu vui chơi giải trí nổi
 
 Với tiêu chí xây dựng một dự án không mang tính chất chỉ để ở, chung cư Thăng Long Victory được chủ đầu tư xây dựng với đầy đủ tiện ích, không gian sống và sinh hoạt tạo ra một một trường không chỉ để ở mà còn là 1 nơi sống và đáng sống
 
+![Mặt bằng sàn căn hộ điển hình dự án Thăng Long Victory](/assets/thang-long-capital/06.jpg)
+
 Với đội ngũ thành viên Hội đồng ban quản lý dự án đều là các tiến sỹ, kỹ sư xây dựng, kiến trúc sư giàu kinh nghiệm trong ngành, trong quá trình thiết kế, dự án Thăng Long Capital đã được tính toán chi tiết đến tải trọng động, gió và động đất theo tiêu chuẩn chung cư cao cấp
+
+![Mặt bằng căn hộ loại A dự án Thăng Long Victory](/assets/thang-long-capital/07.jpg)
+
+![Mặt bằng căn hộ loại B dự án Thăng Long Victory](/assets/thang-long-capital/07.jpg)
+
+![Mặt bằng căn hộ loại C dự án Thăng Long Victory](/assets/thang-long-capital/07.jpg)
+
+![Mặt bằng căn hộ loại D dự án Thăng Long Victory](/assets/thang-long-capital/07.jpg)
 
 Chung cư T3 Thăng Long Capital được thiết kế với các loại diện tích hợp lý, từ 2 tới 3 phòng ngủ mang lại nhiều sự lựa chọn cho khách hàng
